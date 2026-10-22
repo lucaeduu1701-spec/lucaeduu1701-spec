@@ -4,7 +4,6 @@
 **lucaeduu1701-spec/lucaeduu1701-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my personal coding projects and college assignments.
 - 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas (ADS) e [insira a tecnologia, ex: Logic de Programação / Python / JavaScript].
 - 👯 I’m looking to collaborate on open-source projects, basic web development, or beginner-friendly repositories.
